@@ -1,0 +1,163 @@
+This article is about the group of viruses. For the disease involved in the ongoing COVID-19 pandemic, see COVID-19. For the virus that causes this disease, see Severe acute respiratory syndrome coronavirus 2.
+Orthocoronavirinae
+Coronaviruses 004 lores.jpg
+Transmission electron micrograph of Avian coronavirus
+Illustration of a SARS-CoV-2 virion
+Illustration of a coronavirus[2]
+  Red: spike proteins (S)
+  Grey: lipid bilayer envelope
+  Yellow: envelope proteins (E)
+  Orange: membrane proteins (M)
+Virus classificatione
+(unranked):	Virus
+Realm:	Riboviria
+Kingdom:	Orthornavirae
+Phylum:	Pisuviricota
+Class:	Pisoniviricetes
+Order:	Nidovirales
+Family:	Coronaviridae
+Subfamily:	Orthocoronavirinae
+Genera[1]
+Alphacoronavirus
+Betacoronavirus
+Gammacoronavirus
+Deltacoronavirus
+Synonyms[3][4]
+Coronavirinae
+Coronaviruses are a group of related RNA viruses that cause diseases in mammals and birds. In humans and birds, they cause respiratory tract infections that can range from mild to lethal. Mild illnesses in humans include some cases of the common cold (which is also caused by other viruses, predominantly rhinoviruses), while more lethal varieties can cause SARS, MERS, and COVID-19. In cows and pigs they cause diarrhea, while in mice they cause hepatitis and encephalomyelitis.
+
+Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronaviridae, order Nidovirales, and realm Riboviria.[4][5] They are enveloped viruses with a positive-sense single-stranded RNA genome and a nucleocapsid of helical symmetry.[6] The genome size of coronaviruses ranges from approximately 26 to 32 kilobases, one of the largest among RNA viruses.[7] They have characteristic club-shaped spikes that project from their surface, which in electron micrographs create an image reminiscent of the solar corona, from which their name derives.[8]
+
+
+Contents
+1	Etymology
+2	History
+3	Microbiology
+3.1	Structure
+3.2	Genome
+3.3	Replication cycle
+3.3.1	Cell entry
+3.3.2	Genome translation
+3.3.3	Replicase-transcriptase
+3.3.4	Assembly and release
+3.4	Transmission
+4	Classification
+5	Origin
+6	Infection in humans
+6.1	Common cold
+6.2	Severe acute respiratory syndrome (SARS)
+6.3	Middle East respiratory syndrome (MERS)
+6.4	Coronavirus disease 2019 (COVID-19)
+6.5	Coronavirus HuPn-2018
+7	Infection in animals
+7.1	Farm animals
+7.2	Domestic pets
+7.3	Laboratory animals
+8	Prevention and treatment
+9	See also
+10	References
+11	Further reading
+Etymology
+The name "coronavirus" is derived from Latin corona, meaning "crown" or "wreath", itself a borrowing from Greek κορώνη korṓnē, "garland, wreath".[9][10] The name was coined by June Almeida and David Tyrrell who first observed and studied human coronaviruses.[11] The word was first used in print in 1968 by an informal group of virologists in the journal Nature to designate the new family of viruses.[8] The name refers to the characteristic appearance of virions (the infective form of the virus) by electron microscopy, which have a fringe of large, bulbous surface projections creating an image reminiscent of the solar corona or halo.[8][11] This morphology is created by the viral spike peplomers, which are proteins on the surface of the virus.[12]
+
+The scientific name Coronavirus was accepted as a genus name by the International Committee for the Nomenclature of Viruses (later renamed International Committee on Taxonomy of Viruses) in 1971.[13] As the number of new species increased, the genus was split into four genera, namely Alphacoronavirus, Betacoronavirus, Deltacoronavirus, and Gammacoronavirus in 2009.[14] The common name coronavirus is used to refer to any member of the subfamily Orthocoronavirinae.[5] As of 2020, 45 species are officially recognised.[15]
+
+History
+Main article: History of coronavirus
+The earliest reports of a coronavirus infection in animals occurred in the late 1920s, when an acute respiratory infection of domesticated chickens emerged in North America.[16] Arthur Schalk and M.C. Hawn in 1931 made the first detailed report which described a new respiratory infection of chickens in North Dakota. The infection of new-born chicks was characterized by gasping and listlessness with high mortality rates of 40–90%.[17] Leland David Bushnell and Carl Alfred Brandly isolated the virus that caused the infection in 1933.[18] The virus was then known as infectious bronchitis virus (IBV). Charles D. Hudson and Fred Robert Beaudette cultivated the virus for the first time in 1937.[19] The specimen came to be known as the Beaudette strain. In the late 1940s, two more animal coronaviruses, JHM that causes brain disease (murine encephalitis) and mouse hepatitis virus (MHV) that causes hepatitis in mice were discovered.[20] It was not realized at the time that these three different viruses were related.[21][13]
+
+Human coronaviruses were discovered in the 1960s[22][23] using two different methods in the United Kingdom and the United States.[24] E.C. Kendall, Malcolm Bynoe, and David Tyrrell working at the Common Cold Unit of the British Medical Research Council collected a unique common cold virus designated B814 in 1961.[25][26][27] The virus could not be cultivated using standard techniques which had successfully cultivated rhinoviruses, adenoviruses and other known common cold viruses. In 1965, Tyrrell and Bynoe successfully cultivated the novel virus by serially passing it through organ culture of human embryonic trachea.[28] The new cultivating method was introduced to the lab by Bertil Hoorn.[29] The isolated virus when intranasally inoculated into volunteers caused a cold and was inactivated by ether which indicated it had a lipid envelope.[25][30] Dorothy Hamre[31] and John Procknow at the University of Chicago isolated a novel cold from medical students in 1962. They isolated and grew the virus in kidney tissue culture, designating it 229E. The novel virus caused a cold in volunteers and, like B814, was inactivated by ether.[32]
+
+
+Transmission electron micrograph of organ cultured coronavirus OC43
+Scottish virologist June Almeida at St. Thomas Hospital in London, collaborating with Tyrrell, compared the structures of IBV, B814 and 229E in 1967.[33][34] Using electron microscopy the three viruses were shown to be morphologically related by their general shape and distinctive club-like spikes.[35] A research group at the National Institute of Health the same year was able to isolate another member of this new group of viruses using organ culture and named one of the samples OC43 (OC for organ culture).[36] Like B814, 229E, and IBV, the novel cold virus OC43 had distinctive club-like spikes when observed with the electron microscope.[37][38]
+
+The IBV-like novel cold viruses were soon shown to be also morphologically related to the mouse hepatitis virus.[20] This new group of viruses were named coronaviruses after their distinctive morphological appearance.[8] Human coronavirus 229E and human coronavirus OC43 continued to be studied in subsequent decades.[39][40] The coronavirus strain B814 was lost. It is not known which present human coronavirus it was.[41] Other human coronaviruses have since been identified, including SARS-CoV in 2003, HCoV NL63 in 2003, HCoV HKU1 in 2004, MERS-CoV in 2013, and SARS-CoV-2 in 2019.[42] There have also been a large number of animal coronaviruses identified since the 1960s.[43]
+
+Microbiology
+Structure
+
+Structure of a coronavirus
+Coronaviruses are large, roughly spherical particles with unique surface projections.[44] Their size is highly variable with average diameters of 80 to 120 nm. Extreme sizes are known from 50 to 200 nm in diameter.[45] The total molecular mass is on average 40,000 kDa. They are enclosed in an envelope embedded with a number of protein molecules.[46] The lipid bilayer envelope, membrane proteins, and nucleocapsid protect the virus when it is outside the host cell.[47]
+
+The viral envelope is made up of a lipid bilayer in which the membrane (M), envelope (E) and spike (S) structural proteins are anchored.[48] The molar ratio of E:S:M in the lipid bilayer is approximately 1:20:300.[49] The E and M protein are the structural proteins that combined with the lipid bilayer to shape the viral envelope and maintain its size.[50] S proteins are needed for interaction with the host cells. But human coronavirus NL63 is peculiar in that its M protein has the binding site for the host cell, and not its S protein.[51] The diameter of the envelope is 85 nm. The envelope of the virus in electron micrographs appears as a distinct pair of electron-dense shells (shells that are relatively opaque to the electron beam used to scan the virus particle).[52][50]
+
+The M protein is the main structural protein of the envelope that provides the overall shape and is a type III membrane protein. It consists of 218 to 263 amino acid residues and forms a layer 7.8 nm thick.[46] It has three domains, a short N-terminal ectodomain, a triple-spanning transmembrane domain, and a C-terminal endodomain. The C-terminal domain forms a matrix-like lattice that adds to the extra-thickness of the envelope. Different species can have either N- or O-linked glycans in their protein amino-terminal domain. The M protein is crucial during the assembly, budding, envelope formation, and pathogenesis stages of the virus lifecycle.[53]
+
+The E proteins are minor structural proteins and highly variable in different species.[45] There are only about 20 copies of the E protein molecule in a coronavirus particle.[49] They are 8.4 to 12 kDa in size and are composed of 76 to 109 amino acids.[45] They are integral proteins (i.e. embedded in the lipid layer) and have two domains namely a transmembrane domain and an extramembrane C-terminal domain. They are almost fully α-helical, with a single α-helical transmembrane domain, and form pentameric (five-molecular) ion channels in the lipid bilayer. They are responsible for virion assembly, intracellular trafficking and morphogenesis (budding).[46]
+
+
+Diagram of the genome and functional domains of the S protein for SARS-CoV and MERS-CoV
+The spikes are the most distinguishing feature of coronaviruses and are responsible for the corona- or halo-like surface. On average a coronavirus particle has 74 surface spikes.[54] Each spike is about 20 nm long and is composed of a trimer of the S protein. The S protein is in turn composed of an S1 and S2 subunit. The homotrimeric S protein is a class I fusion protein which mediates the receptor binding and membrane fusion between the virus and host cell. The S1 subunit forms the head of the spike and has the receptor-binding domain (RBD). The S2 subunit forms the stem which anchors the spike in the viral envelope and on protease activation enables fusion. The two subunits remain noncovalently linked as they are exposed on the viral surface until they attach to the host cell membrane.[46] In a functionally active state, three S1 are attached to two S2 subunits. The subunit complex is split into individual subunits when the virus binds and fuses with the host cell under the action of proteases such as cathepsin family and transmembrane protease serine 2 (TMPRSS2) of the host cell.[55]
+
+
+After binding of the ACE2 receptor, SARS-CoV spike is activated and cleaved at the S1/S2 level
+S1 proteins are the most critical components in terms of infection. They are also the most variable components as they are responsible for host cell specificity. They possess two major domains named N-terminal domain (S1-NTD) and C-terminal domain (S1-CTD), both of which serve as the receptor-binding domains. The NTDs recognize and bind sugars on the surface of the host cell. An exception is the MHV NTD that binds to a protein receptor carcinoembryonic antigen-related cell adhesion molecule 1 (CEACAM1). S1-CTDs are responsible for recognizing different protein receptors such as angiotensin-converting enzyme 2 (ACE2), aminopeptidase N (APN), and dipeptidyl peptidase 4 (DPP4).[46]
+
+A subset of coronaviruses (specifically the members of betacoronavirus subgroup A) also has a shorter spike-like surface protein called hemagglutinin esterase (HE).[43] The HE proteins occur as homodimers composed of about 400 amino acid residues and are 40 to 50 kDa in size. They appear as tiny surface projections of 5 to 7 nm long embedded in between the spikes. They help in the attachment to and detachment from the host cell.[56]
+
+Inside the envelope, there is the nucleocapsid, which is formed from multiple copies of the nucleocapsid (N) protein, which are bound to the positive-sense single-stranded RNA genome in a continuous beads-on-a-string type conformation.[50][57] N protein is a phosphoprotein of 43 to 50 kDa in size, and is divided into three conserved domains. The majority of the protein is made up of domains 1 and 2, which are typically rich in arginines and lysines. Domain 3 has a short carboxy terminal end and has a net negative charge due to excess of acidic over basic amino acid residues.[45]
+
+Genome
+See also: Severe acute respiratory syndrome–related coronavirus § Genome
+
+SARS-CoV genome and proteins
+Coronaviruses contain a positive-sense, single-stranded RNA genome. The genome size for coronaviruses ranges from 26.4 to 31.7 kilobases.[7] The genome size is one of the largest among RNA viruses. The genome has a 5′ methylated cap and a 3′ polyadenylated tail.[50]
+
+The genome organization for a coronavirus is 5′-leader-UTR-replicase (ORF1ab)-spike (S)-envelope (E)-membrane (M)-nucleocapsid (N)-3′UTR-poly (A) tail. The open reading frames 1a and 1b, which occupy the first two-thirds of the genome, encode the replicase polyprotein (pp1ab). The replicase polyprotein self cleaves to form 16 nonstructural proteins (nsp1–nsp16).[50]
+
+The later reading frames encode the four major structural proteins: spike, envelope, membrane, and nucleocapsid.[58] Interspersed between these reading frames are the reading frames for the accessory proteins. The number of accessory proteins and their function is unique depending on the specific coronavirus.[50]
+
+Replication cycle
+Cell entry
+
+The life cycle of a coronavirus
+Infection begins when the viral spike protein attaches to its complementary host cell receptor. After attachment, a protease of the host cell cleaves and activates the receptor-attached spike protein. Depending on the host cell protease available, cleavage and activation allows the virus to enter the host cell by endocytosis or direct fusion of the viral envelope with the host membrane.[59]
+
+Genome translation
+On entry into the host cell, the virus particle is uncoated, and its genome enters the cell cytoplasm. The coronavirus RNA genome has a 5′ methylated cap and a 3′ polyadenylated tail, which allows it to act like a messenger RNA and be directly translated by the host cell's ribosomes. The host ribosomes translate the initial overlapping open reading frames ORF1a and ORF1b of the virus genome into two large overlapping polyproteins, pp1a and pp1ab.[50]
+
+The larger polyprotein pp1ab is a result of a -1 ribosomal frameshift caused by a slippery sequence (UUUAAAC) and a downstream RNA pseudoknot at the end of open reading frame ORF1a.[60] The ribosomal frameshift allows for the continuous translation of ORF1a followed by ORF1b.[50]
+
+The polyproteins have their own proteases, PLpro (nsp3) and 3CLpro (nsp5), which cleave the polyproteins at different specific sites. The cleavage of polyprotein pp1ab yields 16 nonstructural proteins (nsp1 to nsp16). Product proteins include various replication proteins such as RNA-dependent RNA polymerase (nsp12), RNA helicase (nsp13), and exoribonuclease (nsp14).[50]
+
+Replicase-transcriptase
+
+Replicase-transcriptase complex
+A number of the nonstructural proteins coalesce to form a multi-protein replicase-transcriptase complex. The main replicase-transcriptase protein is the RNA-dependent RNA polymerase (RdRp). It is directly involved in the replication and transcription of RNA from an RNA strand. The other nonstructural proteins in the complex assist in the replication and transcription process. The exoribonuclease nonstructural protein, for instance, provides extra fidelity to replication by providing a proofreading function which the RNA-dependent RNA polymerase lacks.[61]
+
+Replication – One of the main functions of the complex is to replicate the viral genome. RdRp directly mediates the synthesis of negative-sense genomic RNA from the positive-sense genomic RNA. This is followed by the replication of positive-sense genomic RNA from the negative-sense genomic RNA.[50]
+
+
+Transcription of nested mRNAs
+
+Nested set of subgenomic mRNAs
+Transcription – The other important function of the complex is to transcribe the viral genome. RdRp directly mediates the synthesis of negative-sense subgenomic RNA molecules from the positive-sense genomic RNA. This process is followed by the transcription of these negative-sense subgenomic RNA molecules to their corresponding positive-sense mRNAs.[50] The subgenomic mRNAs form a "nested set" which have a common 5'-head and partially duplicate 3'-end.[62]
+
+Recombination – The replicase-transcriptase complex is also capable of genetic recombination when at least two viral genomes are present in the same infected cell.[62] RNA recombination appears to be a major driving force in determining genetic variability within a coronavirus species, the capability of a coronavirus species to jump from one host to another and, infrequently, in determining the emergence of novel coronaviruses.[63] The exact mechanism of recombination in coronaviruses is unclear, but likely involves template switching during genome replication.[63]
+
+Assembly and release
+The replicated positive-sense genomic RNA becomes the genome of the progeny viruses. The mRNAs are gene transcripts of the last third of the virus genome after the initial overlapping reading frame. These mRNAs are translated by the host's ribosomes into the structural proteins and many accessory proteins.[50] RNA translation occurs inside the endoplasmic reticulum. The viral structural proteins S, E, and M move along the secretory pathway into the Golgi intermediate compartment. There, the M proteins direct most protein-protein interactions required for the assembly of viruses following its binding to the nucleocapsid. Progeny viruses are then released from the host cell by exocytosis through secretory vesicles. Once released the viruses can infect other host cells.[64]
+
+Transmission
+Infected carriers are able to shed viruses into the environment. The interaction of the coronavirus spike protein with its complementary cell receptor is central in determining the tissue tropism, infectivity, and species range of the released virus.[65][66] Coronaviruses mainly target epithelial cells.[43] They are transmitted from one host to another host, depending on the coronavirus species, by either an aerosol, fomite, or fecal-oral route.[67]
+
+Human coronaviruses infect the epithelial cells of the respiratory tract, while animal coronaviruses generally infect the epithelial cells of the digestive tract.[43] SARS coronavirus, for example, infects the human epithelial cells of the lungs via an aerosol route[68] by binding to the angiotensin-converting enzyme 2 (ACE2) receptor.[69] Transmissible gastroenteritis coronavirus (TGEV) infects the pig epithelial cells of the digestive tract via a fecal-oral route[67] by binding to the alanine aminopeptidase (APN) receptor.[50]
+
+Classification
+For a more detailed list of members, see Coronaviridae.
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is to be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+
+Stay informed:
+
+Protect yourself: advice for the public
+Myth busters
+Questions and answers
+Situation reports
+All information on the COVID-19 outbreak
