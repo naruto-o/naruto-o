@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naruto-o // printf<"SHIKHAR SHARMA">
 - 👀 I’m interested in ...python,kubernetes,docker,solidity,java,machine learning , web development,,{BLOCKCHAIN_DEVELOPMENT},{SMART_CONTRAACTS},[web3 development]
-- 🌱 I’m currently learning ... python and machine learning with artificial intelligence(B.Tech)
+- 🌱 I’m currently learning ... Bachelor of technology in computer science with specialiization in machine learning and artificial intelligence with collaboration with IBM
 - 💞️ I’m looking to collaborate on ...open source
 - 📫 How to reach me ...u can reach me on github or tweet me i am always available
 
