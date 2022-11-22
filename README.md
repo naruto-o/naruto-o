@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naruto-o // printf<"S*****R S****A">
+- 👋 Hi, I’m @naruto-o // (Shikhar Sharma)
 - 👀 I’m interested in ...python,kubernetes,docker,solidity,java,machine learning , web development,,{BLOCKCHAIN_DEVELOPMENT},{SMART_CONTRAACTS},[web3 development]
 - 🌱 I’m currently learning ... Bachelor of technology in computer science with specialiization in machine learning and artificial intelligence with collaboration with IBM
 - 💞️ I’m looking to collaborate on ...open source
