@@ -41,4 +41,4 @@
 ---
 ![](https://visitcount.itsvg.in/api?id=naruto-o&icon=8&color=11)](https://visitcount.itsvg.in)<br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
