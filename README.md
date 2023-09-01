@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____.shikhar.____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/shikhar-sharma-68512b218/) [![Twitter](https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif
-)](https://twitter.com/__Shikhar__18)
+height="40")](https://twitter.com/__Shikhar__18)
 <a href="https://www.codechef.com/users/shikhar_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shikhar_18" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/naaruutoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naaruutoo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shikhar_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shikhar_18" height="30" width="40" /></a>
