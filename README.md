@@ -34,11 +34,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=naruto-o&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 <br>
 ### Shikhar Mood After Coding for 5minutes
-![](https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif)
+(https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif)
 <br>
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
-![](https://visitcount.itsvg.in/api?id=naruto-o&icon=8&color=11)](https://visitcount.itsvg.in)<br>
+![](https://visitcount.itsvg.in/api?id=naruto-o&icon=8&color=11)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
