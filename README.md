@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naruto-o&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](![](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif))<br>
+![](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif))<br>
 ![](https://github-profile-trophy.vercel.app/?username=naruto-o&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -39,8 +39,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=naruto-o&icon=8&color=11)](https://visitcount.itsvg.in)<br>
-![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
+![](https://visitcount.itsvg.in/api?id=naruto-o&icon=8&color=11)](https://visitcount.itsvg.in)<br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
